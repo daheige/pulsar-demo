@@ -1,0 +1,4 @@
+consumer/consumer
+production
+*.log
+logs/*
